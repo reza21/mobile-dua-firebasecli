@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280996905384",
+    "project_id": "latihan-fire-cli",
+    "storage_bucket": "latihan-fire-cli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280996905384:android:4ece23336c0d0a5c8d9d9d",
+        "android_client_info": {
+          "package_name": "com.example.mobile_dua_firebasecli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxLeY4v-39WAz21rm2adR_gqSmk4r6d7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
