@@ -1,6 +1,6 @@
 # mobile_dua_firebasecli
 
-A new Flutter project.
+Aplikasi Latihan untuk Perkuliahan
 
 ## Getting Started
 
